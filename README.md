@@ -1,1 +1,1 @@
-# Typescript & React Extension Pre-Setup for development
+# Typescript & React Extension Pre Webpack Setup for development
