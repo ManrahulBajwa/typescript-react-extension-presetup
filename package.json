@@ -1,0 +1,18 @@
+{
+  "name": "spreadsheetreader-addon",
+  "version": "1.0.0",
+  "description": "Chrome Extension for Reading Google SpreadSheets Data",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch --progress --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.5",
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1"
+  }
+}
