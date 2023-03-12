@@ -1,0 +1,10 @@
+{
+    "manifest_version" : 3 ,
+    "name" : "SpreadSheet Manager",
+    "description" : "Chrome Extension for Reading Google SpreadSheets Data!",
+    "version" : "1.0.0",
+    "action" : {
+        "default_popup" : "popup.html",
+        "default_title" : "SpreadSheet Manager"
+    }
+}
