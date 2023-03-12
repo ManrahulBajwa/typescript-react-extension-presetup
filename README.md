@@ -1,1 +1,1 @@
-# Typescript & React Extension Rresetup for development
+# Typescript & React Extension Pre-Setup for development
